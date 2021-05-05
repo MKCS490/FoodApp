@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+     background: url(https://www.xmple.com/wallpaper/linear-green-purple-gradient-2880x1800-c2-3cb371-8a2be2-a-180-f-14.svg);
+     background-repeat: no-repeat;
+     background-size: 1600px 900px;
+     background-size: cover;
+}
+
+h1{
+    font-family: 'Fredoka One';
+    color: #ffffff;
+    font-size: 60;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: -1em;
+    border: 1px solid #ddd
+}
+
+h2{
+    /*INSTRUCTIONS TITLE*/
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 15;
+    padding-top: -6em;
+    font-weight: lighter;
+    padding-right: 50%;
+}
+h3{
+    /*INSTRUCTIONS*/
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 13;
+    text-align: justify;
+    padding-top: -4em;
+    font-weight: 100;
+    padding-right: 50%;
+}
+h4{
+    /*INGREDIENTS TITLE*/
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 15;
+    font-weight: lighter;
+    padding-right: 50%;
+}
+h5{
+    /*INGREDIENTS*/
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 13;
+    text-align: justify;
+    padding-top: -45px;
+    font-weight: 100;
+    padding-right: 65%;
+}
+img{
+  position: absolute;
+  display: block;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  top: 130px; 
+  right: 90;
+  width: 400;
+  height: 250;
+}
+
+h6{
+    width:300;
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 15;
+    font-weight: bold;
+    position:absolute;
+    right:170;
+    top:360px;
+}
+h7{
+    width:300;
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 15;
+    font-weight: bold;
+    position:absolute;
+    right:170;
+    top:550px;
+}
+
+h8{
+    width:300;
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 15;
+    font-weight: bold;
+    position:absolute;
+    right:30;
+    top:550px;
+}
+a{
+    width:300;
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 15;
+    font-weight: bold;
+    position:absolute;
+    right:150;
+    top:580px;
+}
+h9{
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 15;
+    font-weight: lighter;
+    padding-right: 50%; 
+}
+h10{
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 13;
+    text-align: justify;
+    padding-top: -45px;
+    font-weight: 100;
+    padding-right: 65%;
+}

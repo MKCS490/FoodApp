@@ -1,0 +1,19 @@
+<html>
+    <head >
+    <link rel="stylesheet" href={{ url_for('static', filename= 'style.css') }} />
+    <body>
+        <h1>{{ current_Food }}</h1>
+        <h2>Instructions&#58</h2>
+        <h3>{{ recipe_Instructions }}</h3>
+        <h4>Ingredients&#58</h4>
+        <h5>{{ recipe_Ingredients }}</h5>
+        <img src={{ recipe_Image }} alt="Display Image of The Recipe" width="370" height="250">
+        <h6>{{ relevent_Tweet }}</h6>
+        <h7>{{ user_Name }}</h7>
+        <h8>{{ tweet_time }}</h8>
+        <h9>Serving Size&#58</h9>
+        <h10>{{ serving_Size }}</h10>
+        <a href={{ source_URL }} >Click to View The Recipe Website</a>
+        
+    </body>
+</html>
